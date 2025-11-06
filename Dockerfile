@@ -36,6 +36,6 @@ COPY --from=builder /app/bin/api /conf/api
 
 VOLUME ["/downloads"]
 
-EXPOSE 8080
+EXPOSE 80
 
 CMD ["/conf/start.sh"]
