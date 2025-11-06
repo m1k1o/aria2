@@ -1,4 +1,4 @@
-# aria2-nginx
+# aria2
 
 Aria2 with Webui in Docker behind Nginx.
 
@@ -6,7 +6,7 @@ Aria2 with Webui in Docker behind Nginx.
 * Webui: https://github.com/ziahamza/webui-aria2
 * Nginx
 
-At the time of creating this repository, Webui does not seem to be in active development (latest change 2 years ago) so I included build here.
+At the time of creating this repository, Webui does not seem to be in active development (latest change 4 years ago) so I included the last build here.
 
 # Usage
 
